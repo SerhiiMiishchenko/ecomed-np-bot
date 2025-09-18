@@ -270,8 +270,7 @@ public class TrackingDocument {
     private String trusteeRecipientPhone;
     @JsonProperty("CounterpartyRecipientDescription")
     private String counterpartyRecipientDescription;
-    @JsonProperty("CreatedOnTheBasis")
-    private String createdOnTheBasis;
+    
     @JsonProperty("FreeShipping")
     private String freeShipping;
     @JsonProperty("InternetDocumentDescription")
